@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sloovi-task-manager/static/css/main.9d772b6b.css",
+    "main.js": "/sloovi-task-manager/static/js/main.e81dfa57.js",
+    "static/js/787.3f219ea6.chunk.js": "/sloovi-task-manager/static/js/787.3f219ea6.chunk.js",
+    "index.html": "/sloovi-task-manager/index.html",
+    "main.9d772b6b.css.map": "/sloovi-task-manager/static/css/main.9d772b6b.css.map",
+    "main.e81dfa57.js.map": "/sloovi-task-manager/static/js/main.e81dfa57.js.map",
+    "787.3f219ea6.chunk.js.map": "/sloovi-task-manager/static/js/787.3f219ea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d772b6b.css",
+    "static/js/main.e81dfa57.js"
+  ]
+}
