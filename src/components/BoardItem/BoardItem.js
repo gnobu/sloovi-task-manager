@@ -8,7 +8,7 @@ import { fetchTask } from '../../actions/singleTask.action';
 const BoardItem = ({ closeForm, setNewTask, itemInfo}) => {
 
     const dispatch = useDispatch();
-    const { task_id, user, task_msg, task_date } = itemInfo;
+    const { task_id, task_msg, task_date } = itemInfo;
 
     async function editTask(e) {
         const error = await dispatch(fetchTask(task_id));

@@ -35,7 +35,7 @@ const Board = () => {
             {!taskModal && tasks.map(task => {
                 const itemInfo = {
                     task_id: task.id,
-                    user: task.assigned_user,
+                    // user: task.assigned_user,
                     task_msg: task.task_msg,
                     task_date: task.task_date
                 };
