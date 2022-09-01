@@ -54,3 +54,16 @@ select {
 .ghost:hover {
     background-color: #54bd7722;
 }
+
+.delete_btn {
+    border: 1px solid var(--primary-border-color);
+    border-radius: 3px;
+    /* border: none; */
+    background-color: transparent;
+    cursor: pointer;
+    padding: .5rem;
+    margin-right: auto;
+}
+.delete_btn:hover {
+    background-color: #bd547555;
+}
