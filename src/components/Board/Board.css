@@ -38,6 +38,9 @@
     cursor: pointer;
     padding: 10px;
     width: 50px;
-    /* border-radius: 3px;
-    box-shadow: 2px 2px 5px #00000036, -2px -2px 5px #00000036; */
+    transition: background-color 250ms ease;
+}
+
+.head_btn:hover {
+    background-color: rgba(128, 128, 128, 0.425);
 }
